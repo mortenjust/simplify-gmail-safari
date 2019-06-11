@@ -21,6 +21,7 @@
 		C8E9A2B722B013BB00F12ABE /* SafariExtensionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8E9A2B522B013BB00F12ABE /* SafariExtensionViewController.xib */; };
 		C8E9A2BA22B013BB00F12ABE /* script.js in Resources */ = {isa = PBXBuildFile; fileRef = C8E9A2B922B013BB00F12ABE /* script.js */; };
 		C8E9A2BC22B013BB00F12ABE /* ToolbarItemIcon.pdf in Resources */ = {isa = PBXBuildFile; fileRef = C8E9A2BB22B013BB00F12ABE /* ToolbarItemIcon.pdf */; };
+		C8E9A2CE22B014C600F12ABE /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = C8E9A2CD22B014C600F12ABE /* style.css */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		C8E9A2B922B013BB00F12ABE /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
 		C8E9A2BB22B013BB00F12ABE /* ToolbarItemIcon.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ToolbarItemIcon.pdf; sourceTree = "<group>"; };
 		C8E9A2BD22B013BB00F12ABE /* Simplify_Gmail_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Simplify_Gmail_Extension.entitlements; sourceTree = "<group>"; };
+		C8E9A2CD22B014C600F12ABE /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +193,7 @@
 				C8E9A2B922B013BB00F12ABE /* script.js */,
 				C8E9A2BB22B013BB00F12ABE /* ToolbarItemIcon.pdf */,
 				C8E9A2BD22B013BB00F12ABE /* Simplify_Gmail_Extension.entitlements */,
+				C8E9A2CD22B014C600F12ABE /* style.css */,
 			);
 			path = "Simplify Gmail Extension";
 			sourceTree = "<group>";
@@ -347,6 +350,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8E9A2BC22B013BB00F12ABE /* ToolbarItemIcon.pdf in Resources */,
+				C8E9A2CE22B014C600F12ABE /* style.css in Resources */,
 				C8E9A2B722B013BB00F12ABE /* SafariExtensionViewController.xib in Resources */,
 				C8E9A2BA22B013BB00F12ABE /* script.js in Resources */,
 			);
